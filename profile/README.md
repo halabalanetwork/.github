@@ -1,7 +1,15 @@
 ## Hey, this is us 👋
 
-We are developing a decentralized open platform for building Smart Interoperable Decentralized Applications
+We are developing a decentralized open platform for building smart interoperable decentralized applications
 
+### 🚀 Our Vision
+
+### 🌈 Contribution Guidelines
+
+### 🌳 Useful Resources
+
+### 🥰 Supporters
+- [@tonghualabs](https://github.com/TongHuaLabs/)
 <!--
 
 **Here are some ideas to get you started:**
